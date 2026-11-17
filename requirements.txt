@@ -1,0 +1,6 @@
+boto3
+pypdf
+claude-agent-sdk
+numpy
+Pillow
+pdfplumber
